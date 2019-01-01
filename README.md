@@ -18,12 +18,12 @@
 
 <ul></ul>
 
-#### <font face="Microsoft YaHei UI">My App: https://github.com/huidaoweilai2017/huidaoweilai2019.github.io/releases/</font>
+<h4 id="my-app-httpsgithubcomhuidaoweilai2017huidaoweilai2019githubioreleases"><font face="Microsoft YaHei UI">My App: https://github.com/huidaoweilai2017/huidaoweilai2019.github.io/releases/</font></h4>
 
 <ul></ul>
 
-#### <font face="Microsoft YaHei UI">Preview: </font>
+<h4 id="preview-"><font face="Microsoft YaHei UI">Preview: </font></h4>
 
 <ul></ul>
 
-![Branching](/IMG_20190101_190524.png)
+<p><img src="/IMG_20190101_190524.png" alt="Branching" /></p>
