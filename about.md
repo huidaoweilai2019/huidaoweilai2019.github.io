@@ -20,7 +20,7 @@ permalink: /about/
 
 <ul></ul>
 
-<h4 id="my-app-httpsgithubcomhuidaoweilai2017huidaoweilai2019githubioreleases"><font face="Microsoft YaHei UI">My App: https://github.com/huidaoweilai2017/huidaoweilai2019.github.io/releases/</font></h4>
+<h4 id="my-app-httpsgithubcomhuidaoweilai2019huidaoweilai2019githubioreleases"><font face="Microsoft YaHei UI">My App: https://github.com/huidaoweilai2019/huidaoweilai2019.github.io/releases/</font></h4>
 
 <ul></ul>
 
