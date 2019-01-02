@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "New: 2019/01/02 Update"
-date:   2019-01-02 23:00:00
+title:  "New: 2019/01/01 Update"
+date:   2019-01-01 23:00:00
 description: 
 ---
 
