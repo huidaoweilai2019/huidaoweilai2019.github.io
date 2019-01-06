@@ -5,4 +5,4 @@ date:   2019-01-06 00:00:00
 description: 
 ---
 
-#### [<font face="Microsoft YaHei UI">20180518 ミュージックステーション</font>](https://mega.nz/#!QBElhCRa!lphgHdwuCnDWHuS7jrUrljeXMJUk2GIt0sztp4rQF4Y)  
+<h4 id="20180518-ミュージックステーション"><a href="https://mega.nz/#!QBElhCRa!lphgHdwuCnDWHuS7jrUrljeXMJUk2GIt0sztp4rQF4Y"><font face="Microsoft YaHei UI">20180518 ミュージックステーション</font></a></h4>
