@@ -4,4 +4,4 @@ title:  "New: 2019/01/02 Update"
 date:   2019-01-02 23:00:00
 description: 
 ---
-#### <font face="Microsoft YaHei UI" color="#FF3636">Hyperlinks are being replaced.</font>
+<h4 id="hyperlinks-are-being-replaced"><font face="Microsoft YaHei UI" color="#FF3636">Hyperlinks are being replaced.</font></h4>
