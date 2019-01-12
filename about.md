@@ -4,15 +4,19 @@ title: about
 permalink: /about/
 ---
 
-<h4 id="focus-on-sharing-yui-yui-flower-flower-resources"><font face="Microsoft YaHei UI">Focus on sharing YUI/ yui (FLOWER FLOWER) resources.</font></h4>
+<h4 id="focus-on-sharing-resources-of-yui-yui-flower-flower"><font face="Microsoft YaHei UI">Focus on sharing resources of YUI/ yui (FLOWER FLOWER).</font></h4>
 
 <ul></ul>
 
-<h4 id="thanks-to-the-resource-providers"><font face="Microsoft YaHei UI">Thanks to the resource providers.</font></h4>
+<h4 id="thanks-to-providers-of-resource"><font face="Microsoft YaHei UI">Thanks to providers of resources.</font></h4>
 
 <ul></ul>
 
 <h4 id="my-blog-huidaoweilai2019githubio"><font face="Microsoft YaHei UI">My Blog: huidaoweilai2019.github.io</font></h4>
+
+<ul></ul>
+
+<h4 id="my-github-githubcomhuidaoweilai2019githubio"><font face="Microsoft YaHei UI">My Github: github.com/huidaoweilai2019.github.io</font></h4>
 
 <ul></ul>
 
