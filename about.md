@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-<h4 id="focus-on-sharing-resources-of-yui-yui-flower-flower"><font face="Microsoft YaHei UI">Focus on sharing resources of YUI/ yui (FLOWER FLOWER).</font></h4>
+<h4 id="focus-on-sharing-resources-of-yuiyui-flower-flower"><font face="Microsoft YaHei UI">Focus on sharing resources of YUI/yui (FLOWER FLOWER).</font></h4>
 
 <ul></ul>
 
