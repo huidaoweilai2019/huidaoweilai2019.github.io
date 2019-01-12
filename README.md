@@ -2,7 +2,7 @@
 
 <ul></ul>
 
-<h4 id="focus-on-sharing-yui-yui-flower-flower-resources"><font face="Microsoft YaHei UI">Focus on sharing YUI/ yui (FLOWER FLOWER) resources.</font></h4>
+<h4 id="focus-on-sharing-resources-of-yui-yui-flower-flower"><font face="Microsoft YaHei UI">Focus on sharing resources of YUI/ yui (FLOWER FLOWER).</font></h4>
 
 <ul></ul>
 
