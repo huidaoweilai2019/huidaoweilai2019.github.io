@@ -10,11 +10,11 @@
 
 <ul></ul>
 
-<h4 id="my-blog-huidaoweilai2019githubio"><font face="Microsoft YaHei UI">My Blog: huidaoweilai2019.github.io</font></h4>
+<h4 id="my-blog-gttpshuidaoweilai2019githubio"><font face="Microsoft YaHei UI">My Blog: https://huidaoweilai2019.github.io/</font></h4>
 
 <ul></ul>
 
-<h4 id="my-github-githubcomhuidaoweilai2019githubio"><font face="Microsoft YaHei UI">My Github: github.com/huidaoweilai2019.github.io</font></h4>
+<h4 id="my-github-httpsgithubcomhuidaoweilai2019githubio"><font face="Microsoft YaHei UI">My Github: https://github.com/huidaoweilai2019.github.io/</font></h4>
 
 <ul></ul>
 
