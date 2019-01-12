@@ -6,7 +6,7 @@
 
 <ul></ul>
 
-<h4 id="thanks-to-the-resource-providers"><font face="Microsoft YaHei UI">Thanks to the resource providers.</font></h4>
+<h4 id="thanks-to-providers-of-resource"><font face="Microsoft YaHei UI">Thanks to providers of resources.</font></h4>
 
 <ul></ul>
 
