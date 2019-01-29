@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "New: 2019/01/29 Update"
-date:   2019-01-29 22:50:00
-description: Press Releases
+title:  "Press Releases: 2019/01/29 Update"
+date:   2018-01-29 22:50:00
+description: 
 ---
 
-#### <font face="Microsoft Yahei UI" color="#FF3636">Press Releases：Digital media version of 《月 -band acoustic ver.-》 will be released tomorrow.
+<h4 id="press-releasesdigital-media-version-of-月--band-acoustic-ver--will-be-released-tomorrow"><font face="Microsoft Yahei UI" color="#FF3636">Press Releases：Digital media version of 《月 -band acoustic ver.-》 will be released tomorrow.</font></h4>
