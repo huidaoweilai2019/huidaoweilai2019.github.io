@@ -5,4 +5,4 @@ date:   2019-01-12 20:10:00
 description: 
 ---
 
-<h4 id="hdtvsongs-yui-nhk---20121110"><a href="https://mega.nz/#!5ME0DSLD!oZINYDc53Cgk1V87QZ254nfqOeHgZD7XOdt1uXPMF-Q"><font face="Microsoft YaHei UI">[HDTV]SONGS 「YUI」 (NHK - 2012.11.10)</font></a></h4>
+<h4 id="hdtvsongs-yui-nhk---20121110"><a href="https://mega.nz/#!5ME0DSLD!oZINYDc53Cgk1V87QZ254nfqOeHgZD7XOdt1uXPMF-Q"><font face="Segoe UI Symbol">[HDTV]SONGS 「YUI」 (NHK - 2012.11.10)</font></a></h4>
