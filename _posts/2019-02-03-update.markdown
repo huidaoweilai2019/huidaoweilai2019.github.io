@@ -5,4 +5,4 @@ date:   2019-02-03 14:42:00
 description: 
 ---
 
-<h4 id="yui-subtitle-group-yui-first-tour-2006-7-street-live-life-love-with-subtitle"><a href="https://mega.nz/#!wNkRHaYS!ogOxciiq2WopF3iUivVkLrQ1SdQK4ia9aQ3kzWrFHKk"><font face="Microsoft YaHei UI">[YUI SUBTITLE GROUP] YUI FIRST TOUR 2006 7 STREET~ LIVE LIFE LOVE~ WITH SUBTITLE</font></a></h4>
+<h4 id="yui-subtitle-group-yui-first-tour-2006-7-street-live-life-love-with-subtitle"><a href="https://mega.nz/#!wNkRHaYS!ogOxciiq2WopF3iUivVkLrQ1SdQK4ia9aQ3kzWrFHKk"><font face="Segoe UI Symbol">[YUI SUBTITLE GROUP] YUI FIRST TOUR 2006 7 STREET~ LIVE LIFE LOVE~ WITH SUBTITLE</font></a></h4>
